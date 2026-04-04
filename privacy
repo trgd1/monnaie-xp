@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - Calcul de Rendu</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #2c3e50; }
+        h2 { color: #2980b9; margin-top: 30px; }
+        .highlight { background-color: #f1f1f1; padding: 15px; border-left: 5px solid #2980b9; }
+    </style>
+</head>
+<body>
+
+    <h1>Politique de Confidentialité</h1>
+    <p>Dernière mise à jour : 4 avril 2026</p>
+
+    <div class="highlight">
+        <strong>Note importante pour les parents :</strong> Cette application a été conçue pour être sûre. Elle ne collecte aucune donnée, ne contient pas de publicités et ne permet aucun achat intégré.
+    </div>
+
+    <h2>1. Collecte des données personnelles</h2>
+    <p>L'application <strong>[Nom de votre App]</strong> ne collecte, ne stocke et ne transmet aucune donnée personnelle. Nous ne demandons pas de nom, d'adresse e-mail, de numéro de téléphone ou de données de localisation.</p>
+
+    <h2>2. Utilisation des données</h2>
+    <p>Puisqu'aucune donnée n'est collectée, aucune donnée n'est utilisée, partagée ou vendue à des tiers.</p>
+
+    <h2>3. Protection des enfants (COPPA / RGPD)</h2>
+    <p>Notre application est conforme aux lois de protection de la vie privée des enfants. Nous ne collectons sciemment aucune information auprès d'enfants de moins de 13 ans (ou tout autre âge pertinent selon la juridiction locale).</p>
+
+    <h2>4. Autorisations demandées</h2>
+    <p>L'application ne demande aucune autorisation spéciale (accès caméra, contacts ou fichiers) pour fonctionner. Elle fonctionne entièrement hors-ligne.</p>
+
+    <h2>5. Modifications de cette politique</h2>
+    <p>Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Nous vous conseillons de consulter cette page périodiquement pour prendre connaissance de tout changement.</p>
+
+    <h2>6. Nous contacter</h2>
+    <p>Si vous avez des questions concernant cette politique, vous pouvez nous contacter à l'adresse suivante : <strong>[Votre e-mail de développeur]</strong></p>
+
+</body>
+</html>
